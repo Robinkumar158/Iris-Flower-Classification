@@ -2,7 +2,7 @@
 This project showcases iris flower classification using machine learning. It's a beginner-friendly example of data science and classification techniques. Explore the code, Jupyter Notebook, and enhance your data science skills.
 # Iris Flower Classification
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+(https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
